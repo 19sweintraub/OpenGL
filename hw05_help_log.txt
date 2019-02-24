@@ -1,0 +1,4 @@
+10/14 1:00pm: Used random2 noise function provided in lecture slides
+10/15 5:00pm: consulted https://thebookofshaders.com/12/ for worley noise implementation
+10/16 5:00pm: Inspired to use use worley noise to sample a distance along a vector from homework description
+10/17 1:00pm: discussed how to add extra drop downs for post process shaders with Joe Auckley

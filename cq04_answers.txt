@@ -1,0 +1,5 @@
+1.) A uniform variable is a variable that can be accessed by all threads in the GPU when doing a calculation and does not change during execution of the shader program. 
+The 'in' and 'out' keywords define which variables are being passed in and out of the shader program. Vertex shaders pass data to a fragment shader via Vertex Buffer Objects.
+
+2.) attrPos and unifModel are both handles. These handles are used to point a shader to information in a VBO. The values are assigned when the the surface shader program is initialized.
+The initialization uses gl's getAttributeLocation function to assign a unique handle ID if the variable exists.

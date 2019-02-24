@@ -1,0 +1,5 @@
+9/30/18 10:00am: Used equation found here: https://www.xarg.org/2017/07/how-to-map-a-square-to-a-circle/ for matcap
+10/1/18 4:00pm: Asked TA Joe to clarify approach to passing in u_Cam to glsl shaders
+10/2/18 5:00pm: Consulted http://www.iquilezles.org/www/articles/palettes/palettes.htm for selecting color palletes
+10/3/18 2:00pm: Used 3D perlin noise function from https://github.com/ashima/webgl-noise/blob/master/src/classicnoise3D.glsl. I was pointed to this link
+while trying to implement a custom deformation that I found here: https://www.clicktorelease.com/blog/vertex-displacement-noise-3d-webgl-glsl-three-js/
